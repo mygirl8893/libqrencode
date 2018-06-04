@@ -1,0 +1,2 @@
+# libqrencode
+old qren fixed
